@@ -63,7 +63,7 @@ fn main() {
     
     let mem_free = mem_v[9];
     
-    println!("mem_free = {}", &mem_free);
+    println!("mem_free [kilobytes] = {}", &mem_free);
 }
 
 
